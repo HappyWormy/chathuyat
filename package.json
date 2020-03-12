@@ -1,0 +1,25 @@
+{
+  "name": "Chatio",
+  "version": "0.0.0",
+  "description": "A simple chat client using socket.io",
+  "main": "index.js",
+  "author": "Grant Timmerman",
+  "private": true,
+  "license": "BSD",
+  "icons": [{
+    "src": "public/huychat.svg",
+    "sizes": "64x64"
+  }, {
+    "src": "public/huychat.svg",
+    "sizes": "128x128"
+  }],
+  "display": "fullscreen",
+  "dependencies": {
+    "cjs": "0.0.11",
+    "express": "^4.15.2",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

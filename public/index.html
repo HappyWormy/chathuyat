@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name=viewport content="width=device-width, initial-scale=1, minimum-scale=1">
+    <meta name="theme-color" content="#ba63c6" />
+
+    <link rel="icon" href="huychat.png" sizes="16x16" type="image/png">
+    <link rel="icon" href="favicon.png" sizes="16x16 32x32" type="image/vnd.microsoft.icon">
+    <link rel="icon" href="huychat.svg" sizes="any" type="image/svg+xml">
+
+    <title>Чат-Хуят</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<ul class="pages">
+    <li class="chat page">
+        <div class="chatArea">
+            <ul class="messages"></ul>
+        </div>
+        <input class="inputMessage" placeholder="Строчить тут..."/>
+    </li>
+    <li class="login page">
+        <div class="form">
+            <h3 class="title">Хуйни-ка свой ник:</h3>
+            <input class="usernameInput" type="text" maxlength="14" />
+        </div>
+    </li>
+</ul>
+
+<script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/main.js"></script>
+</body>
+</html>
