@@ -6,18 +6,21 @@
   "author": "HappyWormy",
   "private": true,
   "license": "BSD",
-  "icons": [{
-    "src": "public/huychat.svg",
-    "sizes": "64x64"
-  }, {
-    "src": "public/huychat.svg",
-    "sizes": "128x128"
-  }],
+  "icons": [
+    {
+      "src": "public/huychat.svg",
+      "sizes": "64x64"
+    },
+    {
+      "src": "public/huychat.svg",
+      "sizes": "128x128"
+    }
+  ],
   "display": "fullscreen",
   "dependencies": {
     "cjs": "0.0.11",
-    "express": "^4.15.2",
-    "socket.io": "^2.3.0"
+    "express": "^4.18.2",
+    "socket.io": "^2.5.0"
   },
   "scripts": {
     "start": "node index.js"
