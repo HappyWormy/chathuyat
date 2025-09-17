@@ -1,0 +1,29 @@
+[33mcommit efad3dac20c8fe4be382dbd07c8849ba290386e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: HappyWormy <m@atonua.com>
+Date:   Wed Sep 17 17:35:19 2025 +0300
+
+    Add Dockerfile for Docker Compose
+
+[33mcommit 2e3a71db06a6f56f33be46db7ea6c1b619a16511[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HappyWormy <m@atonua.com>
+Date:   Fri Sep 22 15:03:26 2023 +0300
+
+    version updated
+
+[33mcommit 45213f99f444fdc5bae6650f78f830d0b4fa8a83[m
+Author: HappyWormy <m@atonua.com>
+Date:   Fri Sep 22 14:29:34 2023 +0300
+
+    Fixed npm
+
+[33mcommit a28e43345d2c545bae33e7e944db85135ae7f70e[m
+Author: HappyWormy <m@atonua.com>
+Date:   Fri Sep 22 14:17:43 2023 +0300
+
+    ChatHuyat reborn
+
+[33mcommit acfbdfed07e147f9d28781513301578a92914ef1[m
+Author: HappyWormy <m@atonua.com>
+Date:   Thu Mar 12 20:40:34 2020 +0200
+
+    chatio
